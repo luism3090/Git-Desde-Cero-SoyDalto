@@ -1,2 +1,4 @@
 #vamos a ignorar el archivo ignorar_esto.txt
-*.txt
+
+#*.txt
+ignorar_esto.txt
